@@ -1,5 +1,6 @@
 # EmailSender
-
+### About the application
+The application is basically sending a mail with attachment to a specific user for which used [spring-boot-starter-mail](https://github.com/anvbey/EmailSender/blob/main/pom.xml#L25) dependency.
 ### The issue:
 
 ```
